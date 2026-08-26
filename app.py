@@ -2353,12 +2353,8 @@ if uploaded_file is not None:
     """
     st.info(texte_analyse)
     
-    st.markdown("> 🔒 *Note: This public cloud demo is restricted to a static multi-asset output to protect our core intellectual property. For live customized B2B pilot testing on proprietary datasets, contact the founder.*")
+    st.markdown("> 🔒 *Note: This public cloud demo is restricted to a static multi-asset output to protect our core intellectual property.*")
 
 st.write("---")
 
-# 7. Secured Footer
-st.markdown("""
-### 📬 Inquiries & Technical Discussions
-If you are an AI researcher, institutional operator, or enterprise partner interested in our local zero-hallucination edge architecture, reach out via DM on X (Twitter).
-""")
+
