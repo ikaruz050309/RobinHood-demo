@@ -4,7 +4,11 @@
 This repository hosts the **Public Frontend UI** built with Streamlit for our proprietary, local 'Time-to-Text' AI architecture. 
 
 ## 🧠 What is this project?
-Traditional Large Language Models (LLMs) suffer from severe hallucinations when processing raw numerical data or dense time-series charts. This architecture completely bypasses that bottleneck by forcing a local language model to strictly translate mathematical feature attributions from **Captum** into clinical, probabilistic macro-economic reports. 
+Traditional Large Language Models (LLMs) suffer from severe hallucinations when processing raw numerical data or dense time-series charts. 
+
+This project was built to bring fairness, clarity, and transparency to market analysis. By forcing a local language model to strictly translate mathematical feature attributions into clinical, probabilistic reports, this architecture delivers a cold, objective, and unbiased look at market movements. 
+
+The goal is to demystify complex financial data and make advanced market insights deeply explainable and fair for anyone, eliminating emotional bias and computational guesswork.
 
 **Prediction based solely on data. On-device processing.**
 
