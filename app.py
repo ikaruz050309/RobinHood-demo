@@ -5,7 +5,7 @@ import time
 st.set_page_config(page_title="Millnew AI", page_icon="📈", layout="centered")
 
 # 2. Main Header and Project Stature
-st.title("📈 RobinHood AI")
+st.title("📈 Millnew AI")
 st.subheader("On-Device Multi-Asset Forecasting")
 
 st.markdown("""
