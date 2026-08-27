@@ -2,7 +2,7 @@ import streamlit as st
 import time
 
 # 1. Page Configuration
-st.set_page_config(page_title="RobinHood AI", page_icon="📈", layout="centered")
+st.set_page_config(page_title="Millnew AI", page_icon="📈", layout="centered")
 
 # 2. Main Header and Project Stature
 st.title("📈 RobinHood AI")
