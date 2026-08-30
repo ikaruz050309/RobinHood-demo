@@ -20,9 +20,5 @@ To protect our core architecture, model weights, and proprietary pipeline logic,
 * **The Live Cloud Demo:** This Streamlit app is a functional mock-up showcasing a clinical, cross-correlation forecast of **Gold (GLD), SPX, Oil (USO), Silver (SLV), and EUR/USD**. It simulates the frontend experience using a static output derived directly from our local backend testing.
 * **The Real Engine:** Runs 100% locally on-device via a multi-asset foundational framework integrated with Captum.
 
----
-
-## 🚀 About the Founder
-I am a 17-year-old self-taught AI developer and independent researcher based in Mali. I designed, optimized, and built this lightweight, edge-compatible framework from scratch on a local development machine, mastering advanced multimodal time-series processing and model explainability.
 
 📬 **Inquiries & Technical Feedback:** Reach out via DM on X (Twitter) or open a secure technical discussion.
